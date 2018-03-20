@@ -13,7 +13,7 @@ unzip -p /var/lib/waagent/WALinuxAgent-2.2.22/bin/WALinuxAgent-2.2.22-py2.7.egg 
 ```
 - creat an egg from repo 
 ```
-python setup.py  bdist_egg
+python setup.py  bdist_egg -v
 ```
 
 
